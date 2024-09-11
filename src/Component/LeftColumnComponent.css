@@ -60,8 +60,8 @@
 @media only screen and (min-width: 400px) and (max-width: 780px){
     .left-column {
             margin-top: 0.1%;
-            padding: 15px;
-            height: 100%;
+            padding: 17px;
+            height: 105%;
             width: 31%;
             border-radius: 20px 70px 0px 60px;
             position: relative;
@@ -71,7 +71,7 @@
         .title {
             display: flex;
             align-items: center;
-            margin-top: px;
+            margin-top: 0.1px;
             margin-bottom: 115px;
         }    
         .main-image {
