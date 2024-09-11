@@ -1,0 +1,22 @@
+.container {
+    width: 57%;
+    height: 90vh;
+    background-color: white;
+    border-radius: 10px 20px 20px 60px;
+    /* padding: 5px; */
+    margin: 7vh auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inside {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 87%;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
